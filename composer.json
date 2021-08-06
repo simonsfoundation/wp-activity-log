@@ -1,0 +1,51 @@
+  {
+  "name": "simonsfoundation/wp-activity-log",
+  "description": "The #1 user-rated activity log plugin. Keep a comprehensive log of the changes that happen on your site with this easy to use plugin.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "activity log",
+    "wordpress activity logs",
+    "security audit log",
+    "audit log",
+    "user tracking",
+    "security event log",
+    "audit trail",
+    "wordpress security monitor",
+    "wordpress admin",
+    "wordpress admin monitoring",
+    "user activity",
+    "admin",
+    "multisite",
+    "SMS alerts",
+    "wordpress monitoring",
+    "email notification",
+    "wordpress email alerts",
+    "tracking",
+    "user tracking",
+    "user activity report",
+    "wordpress audit trail"
+  ],
+  "license": "GPLv3",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "WPWhiteSecurity",
+      "homepage": "https://www.wpwhitesecurity.com",
+      "role": "Company"
+    },
+    {
+      "name": "Martin Krcho",
+      "email": "martin.krcho@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/simonsfoundation/wp-activity-log/issues",
+    "source": "https://github.com/simonsfoundation/wp-activity-log"
+  },
+  "require": {
+    "php": ">=5.4",
+    "composer/installers": "^1.0"
+  }
+}
